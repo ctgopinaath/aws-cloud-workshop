@@ -1,3 +1,28 @@
+# Amazon S3 Workshop 🗄️
+
+![S3 Overview](S3.png)
+
+## Overview
+
+Amazon Simple Storage Service (S3) provides secure, durable, and scalable object storage. In this workshop, you'll create an S3 bucket and configure it to host a static website.
+
+**What you'll build:** A static website hosted entirely on S3 with public access configuration.
+
+## Learning Objectives
+
+- Create and configure S3 buckets
+- Upload and manage objects
+- Configure static website hosting
+- Set up bucket policies for public access
+- Understand S3 security and permissions
+
+## Prerequisites
+
+- AWS Account with S3 access
+- Basic HTML knowledge
+- Understanding of web hosting concepts
+
+---
 
 ## AWS Management Console Steps
 

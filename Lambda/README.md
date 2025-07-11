@@ -17,7 +17,7 @@
 ### 3. Write Your Python Code
 • In the "Code source" section, you'll see the default lambda_function.py
 • Replace the default code with your Python code
-• **Example Python code: index.py
+• **Example Python code: lambda_function.py
 
 ### 4. Configure Function Settings
 • **Timeout**: Go to "Configuration" → "General configuration" → "Edit"
