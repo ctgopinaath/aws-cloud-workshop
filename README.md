@@ -79,6 +79,91 @@ By the end of this workshop, you will be able to:
 
 📁 **[Go to Lambda Module →](./Lambda/)**
 
+---
+
+### 4. AWS CloudFormation (Infrastructure as Code) 🏗️
+
+**What you'll learn:** Model and provision AWS resources using templates, manage infrastructure as code.
+
+**Practical Exercise:** Create and deploy CloudFormation stacks with EC2 instances and S3 buckets.
+
+**Key Concepts:**
+- Infrastructure as Code (IaC)
+- CloudFormation templates
+- Stack management
+- Resource dependencies
+- CloudFormation Designer
+
+📁 **[Go to CloudFormation Module →](./CloudFormation/)**
+
+---
+
+### 5. Amazon SNS (Simple Notification Service) 📧
+
+**What you'll learn:** Set up pub/sub messaging, configure notifications, and integrate with other services.
+
+**Practical Exercise:** Create topics, subscriptions, and send notifications via email, SMS, and HTTP.
+
+**Key Concepts:**
+- Pub/Sub messaging
+- Topics and subscriptions
+- Message filtering
+- Multi-protocol delivery
+- Integration patterns
+
+📁 **[Go to SNS Module →](./SNS/)**
+
+---
+
+### 6. Amazon CloudWatch (Monitoring & Observability) 📊
+
+**What you'll learn:** Monitor AWS resources, create dashboards, and analyze performance metrics.
+
+**Practical Exercise:** Build comprehensive monitoring dashboards and set up log analysis.
+
+**Key Concepts:**
+- Metrics and monitoring
+- Custom dashboards
+- Log management
+- Performance analysis
+- CloudWatch Insights
+
+📁 **[Go to CloudWatch Module →](./CloudWatch/)**
+
+---
+
+### 7. CloudWatch Alarms (Automated Alerting) 🚨
+
+**What you'll learn:** Create intelligent alarms, configure notifications, and implement automated responses.
+
+**Practical Exercise:** Set up threshold-based and anomaly detection alarms with automated actions.
+
+**Key Concepts:**
+- Threshold monitoring
+- Anomaly detection
+- Composite alarms
+- Automated actions
+- Notification strategies
+
+📁 **[Go to CloudWatch Alarms Module →](./Alarms/)**
+
+---
+
+### 8. CloudWatch Log Groups (Centralized Logging) 📝
+
+**What you'll learn:** Manage log groups, configure retention, and analyze logs with advanced queries.
+
+**Practical Exercise:** Set up centralized logging, create metric filters, and use Logs Insights.
+
+**Key Concepts:**
+- Log aggregation
+- Retention policies
+- Metric extraction
+- Log analysis
+- Subscription filters
+
+📁 **[Go to CloudWatch Log Groups Module →](./LogGroup/)**
+
 ## 🚀 Quick Start Guide
 
 ### Step 1: Set Up Your AWS Account
